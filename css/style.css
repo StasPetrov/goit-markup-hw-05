@@ -118,6 +118,7 @@ img {
   position: absolute;
   top: 45.7px;
   left: 0;
+  cursor: default;
 }
 .margin-right {
   margin-right: 50px;
